@@ -2,7 +2,7 @@
 My daily  LeetCode  problem solving journey  🚀
 # 🚀 LeetCode Problem Solving Journey
 
-Hi 👋 I'm Kishan Pathak.
+Hi 👋 I'm Nitish Pathak.
 This repository contains my daily LeetCode practice to strengthen my DSA skills.
 
 ---
