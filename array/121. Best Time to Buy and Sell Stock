@@ -1,0 +1,33 @@
+Problem--121
+Platform--LeetCode
+Difficulty--Easy
+
+Intitution
+The problem aims to find the maximum profit that can be obtained by buying and selling a stock. The given solution seems to follow a simple approach of iterating through the prices, keeping track of the minimum buying price, and updating the profit whenever a higher selling price is encountered
+Approach
+Initialize variables buy with the first element of the prices array and profit as 0.
+Iterate through the prices starting from the second element.
+Update the buy variable if the current price is lower than the current buying price.
+Update the profit if the difference between the current price and the buying price is greater than the current profit.
+Return the final profit.
+
+Solution--
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int num=prices.size();
+        int buy=prices[0];
+        int profit=0;
+        for(int i=1;i<num;i++){
+            if(prices[i]<buy){
+                buy=prices[i];
+            }
+                int maxprofit=prices[i]-buy;
+                if(maxprofit>profit){
+                    profit=maxprofit;
+                }
+            
+        }
+        return profit;
+    }
+};
