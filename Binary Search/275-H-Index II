@@ -1,0 +1,96 @@
+# H-Index (LeetCode)
+
+## Problem
+
+Given an array `citations` where `citations[i]` is the number of citations a researcher received for their ith paper, return the researcher's **h-index**.
+
+According to the definition of h-index:
+A researcher has index **h** if **h papers have at least h citations each**, and the rest have no more than **h citations**.
+
+---
+
+## Example
+
+Input:
+
+```
+citations = [0,1,3,5,6]
+```
+
+Output:
+
+```
+3
+```
+
+Explanation:
+
+The researcher has 5 papers with citations:
+
+```
+0, 1, 3, 5, 6
+```
+
+There are **3 papers (3,5,6)** that have **at least 3 citations**.
+
+But there are **not 4 papers with at least 4 citations**.
+
+Therefore the **H-index = 3**.
+
+---
+
+## Approach
+
+1. Sort the citations array in ascending order.
+2. Let `n` be the number of papers.
+3. Traverse the array and check:
+
+```
+if citations[i] >= n - i
+```
+
+4. If the condition is true, return `n - i` because that many papers have at least that many citations.
+
+---
+
+## C++ Implementation
+
+```cpp
+class Solution {
+public:
+    int hIndex(vector<int>& citations) {
+        sort(citations.begin(), citations.end());
+        int n = citations.size();
+
+        for(int i = 0; i < n; i++){
+            if(citations[i] >= n - i){
+                return n - i;
+            }
+        }
+
+        return 0;
+    }
+};
+```
+
+---
+
+## Complexity
+
+Time Complexity:
+
+```
+O(n log n)
+```
+
+Space Complexity:
+
+```
+O(1)
+```
+
+---
+
+## Key Concept
+
+H-index is the **largest number h such that at least h papers have ≥ h citations.**
