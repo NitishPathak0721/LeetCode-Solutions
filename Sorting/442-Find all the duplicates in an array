@@ -1,0 +1,99 @@
+# Find All Duplicates in an Array (C++)
+
+## Problem
+
+Given an integer array `nums` of length `n` where all integers are in the range `[1, n]` and each integer appears **once or twice**, return an array of all the integers that appear **twice**.
+
+Example:
+
+Input:
+
+```
+nums = [4,3,2,7,8,2,3,1]
+```
+
+Output:
+
+```
+[2,3]
+```
+
+---
+
+## Approach
+
+1. Sort the array.
+2. Use a hash map (`unordered_map`) to count the frequency of each element.
+3. If the frequency of any number becomes **2**, push it into the result vector.
+
+Steps:
+
+* Sort the array → `O(n log n)`
+* Traverse the array
+* Count occurrences using a hash map
+
+---
+
+## C++ Implementation
+
+```cpp
+#include <vector>
+#include <algorithm>
+#include <unordered_map>
+using namespace std;
+
+class Solution {
+public:
+    vector<int> findDuplicates(vector<int>& nums) {
+
+        int num = nums.size();
+
+        // Step 1: Sort the array
+        sort(nums.begin(), nums.end());
+
+        unordered_map<int,int> mp;
+        vector<int> result;
+
+        // Step 2: Count frequency
+        for(int i = 0; i < num; i++){
+
+            mp[nums[i]]++;
+
+            // Step 3: If element appears twice, store it
+            if(mp[nums[i]] == 2){
+                result.push_back(nums[i]);
+            }
+        }
+
+        return result;
+    }
+};
+```
+
+---
+
+## Complexity
+
+Time Complexity
+
+```
+O(n log n)
+```
+
+Space Complexity
+
+```
+O(n)
+```
+
+---
+
+## Notes
+
+* Sorting ensures duplicate numbers come together.
+* Hash map keeps track of how many times a number appears.
+* When frequency becomes **2**, the number is added to the result.
+
+---
+
+⭐ This is a simple and beginner-friendly solution using **sorting + hash map**.
