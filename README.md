@@ -9,9 +9,9 @@ This repository contains my daily LeetCode practice to strengthen my DSA skills.
 
 ## 📈 Progress Tracker
 
-- 🔢 Total Problems Solved: 5
+- 🔢 Total Problems Solved: 6
 - 🟢 Easy: 1
-- 🟡 Medium: 4
+- 🟡 Medium: 5
 - 🔴 Hard: 0
 - 💻 Language Used: C++
 
@@ -23,6 +23,7 @@ Problems are organized topic-wise:
 
 - Arrays
 - Math
+- Matrix
 - LinkedList
 - Stack
 - Patterns (Templates & Concepts)
@@ -35,6 +36,7 @@ Problems are organized topic-wise:
 - Arrays
 - Hashing
 - Math
+- Matrix
 - Two Pointers
 - Recursion
 - Dynamic Programming (Learning Phase)
