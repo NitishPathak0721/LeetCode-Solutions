@@ -9,8 +9,8 @@ This repository contains my daily LeetCode practice to strengthen my DSA skills.
 
 ## 📈 Progress Tracker
 
-- 🔢 Total Problems Solved: 6
-- 🟢 Easy: 1
+- 🔢 Total Problems Solved: 7
+- 🟢 Easy: 2
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 - 💻 Language Used: C++
