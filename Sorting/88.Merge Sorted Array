@@ -1,0 +1,82 @@
+# Merge Sorted Array (C++)
+
+## Problem
+You are given two sorted integer arrays `nums1` and `nums2`.
+
+- `nums1` has length `m + n`
+- The first `m` elements are valid
+- `nums2` has `n` elements
+
+Merge `nums2` into `nums1` as one sorted array.
+
+---
+
+## Example
+
+Input
+
+nums1 = [1,2,3,0,0,0]  
+m = 3  
+
+nums2 = [2,5,6]  
+n = 3  
+
+Output
+
+[1,2,2,3,5,6]
+
+---
+
+## Approach
+
+1. Use two pointers:
+   - `num1` for `nums1`
+   - `num2` for `nums2`
+
+2. Compare elements from both arrays.
+
+3. Push the smaller element into a temporary vector.
+
+4. Add remaining elements from either array.
+
+5. Copy the merged result back into `nums1`.
+
+---
+
+## Time Complexity
+
+O(m + n)
+
+## Space Complexity
+
+O(m + n)
+
+---
+
+CODE---
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int num1=0;
+        int num2=0;
+        vector<int>com;
+        while(num1<m && num2<n){
+            if(nums1[num1]<nums2[num2]){
+                com.push_back(nums1[num1]);
+                num1++;
+            }else{
+                com.push_back(nums2[num2]);
+                num2++;
+            }
+        }
+            for( ;num1<m;num1++){
+                com.push_back(nums1[num1]);
+            }
+            for( ;num2<n;num2++){
+                com.push_back(nums2[num2]);
+            }
+        for(int i=0;i<m+n;i++){
+            nums1[i]=com[i];
+        }
+    }
+};
