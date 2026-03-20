@@ -12,7 +12,7 @@ This repository contains my daily LeetCode practice to strengthen my DSA skills.
 - 🔢 Total Problems Solved: 7
 - 🟢 Easy: 2
 - 🟡 Medium: 5
-- 🔴 Hard: 0
+- 🔴 Hard: 1
 - 💻 Language Used: C++
 
 ---
