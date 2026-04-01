@@ -9,9 +9,9 @@ This repository contains my daily LeetCode practice to strengthen my DSA skills.
 
 ## 📈 Progress Tracker
 
-- 🔢 Total Problems Solved: 7
+- 🔢 Total Problems Solved: 8
 - 🟢 Easy: 2
-- 🟡 Medium: 5
+- 🟡 Medium: 6
 - 🔴 Hard: 1
 - 💻 Language Used: C++
 
@@ -41,7 +41,7 @@ Problems are organized topic-wise:
 - Recursion
 - Dynamic Programming (Learning Phase)
 - Binary Search
----
+- Linked list
 
 ## 🎯 Goal
 
