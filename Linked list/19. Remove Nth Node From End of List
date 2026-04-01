@@ -1,0 +1,163 @@
+🔹 Remove Nth Node From End of List
+
+🧠 Problem Statement
+Given the head of a singly linked list, remove the nth node from the end and return the updated head.
+
+🔹 Idea of Your Approach
+👉 First pass → count total nodes
+👉 Second pass → delete (count - n)th node from start
+
+Code Explanation (Line by Line)
+🔸 Step 1: Handle empty list
+if(head==NULL){
+    return NULL; 
+}
+
+👉 If list is empty → nothing to delete
+
+🔸 Step 2: Count total nodes
+ListNode* curr=head;
+int count=0;
+while(curr!=NULL){
+    count++;
+    curr=curr->next;
+}
+
+👉 Traverse full list and count nodes
+
+Example:
+
+1 → 2 → 3 → 4 → 5
+count = 5
+🔸 Step 3: Special case (delete head)
+if(count==n){
+    ListNode* temp=head;
+    head=head->next;
+    delete(temp);
+    return head;
+}
+
+👉 If n == count
+→ means delete 1st node from start (head)
+
+Example:
+
+[1,2,3], n=3 → delete 1
+
+✔️ Update head
+✔️ Free memory
+
+🔸 Step 4: Find target position
+int target=count-n;
+
+👉 Convert:
+
+Nth from end → (count - n)th from start
+
+Example:
+
+count = 5, n = 2
+target = 5 - 2 = 3
+
+👉 We need to reach node before deletion point
+
+🔸 Step 5: Move to (target-1) node
+curr=head;
+for(int i=1;i<target;i++){
+    curr=curr->next;
+}
+
+👉 Move curr to node just before the one to delete
+Example:
+
+1 → 2 → 3 → 4 → 5
+            ↑ delete 4
+
+curr stops at 3
+🔸 Step 6: Delete node
+ListNode* temp=curr->next;
+curr->next=curr->next->next;
+delete(temp);
+
+👉 Standard deletion in linked list:
+
+Before:
+
+3 → 4 → 5
+
+After:
+
+3 → 5
+🔸 Step 7: Return head
+return head;
+🔁 Full Dry Run
+Input:
+1 → 2 → 3 → 4 → 5, n = 2
+Step 1: Count
+count = 5
+Step 2: target
+target = 5 - 2 = 3
+Step 3: Move curr
+curr → 3
+Step 4: Delete
+curr->next = 4 → remove it
+Final Output:
+1 → 2 → 3 → 5
+⚡ Complexity
+Time: O(n) + O(n) = O(n)
+Space: O(1)
+🔥 Important Observations
+✅ Why i < target?
+
+Because:
+
+We want node before deletion
+Not the node to delete
+✅ Why special case needed?
+
+Because:
+
+Deleting head → no previous node exists
+🚀 Comparison with Optimal (One-pass)
+Approach	Passes	Difficulty
+Your code	2-pass	Easy 👍
+Two pointer	1-pass	Optimal 🚀
+🔥 Summary
+
+👉 First count nodes
+👉 Convert position
+👉 Traverse again
+👉 Delete node
+
+Code implementation:
+class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        if(head==NULL){
+            return NULL; 
+        }
+        ListNode* curr=head;
+        int count=0;
+        while(curr!=NULL){
+            count++;
+            curr=curr->next;
+        }
+        if(count==n){
+            ListNode* temp=head;
+            head=head->next;
+            delete(temp);
+            return head;
+        }
+        int target=count-n;
+        curr=head;
+        for(int i=1;i<target;i++){
+            curr=curr->next;
+        }
+
+            ListNode* temp=curr->next;
+            curr->next=curr->next->next;
+            delete(temp);
+        
+        return head;
+    }
+};
