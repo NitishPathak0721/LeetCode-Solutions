@@ -52,3 +52,11 @@ Problems are organized topic-wise:
 ---
 
 ⭐ If you find this repository helpful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+<!---LeetCode Topics End-->
