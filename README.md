@@ -69,6 +69,7 @@ Problems are organized topic-wise:
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ Problems are organized topic-wise:
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +116,20 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
