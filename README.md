@@ -79,6 +79,7 @@ Problems are organized topic-wise:
 | [0242-valid-anagram](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +144,12 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
