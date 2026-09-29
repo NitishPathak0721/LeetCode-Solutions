@@ -95,6 +95,7 @@ Problems are organized topic-wise:
 | [0011-container-with-most-water](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -152,4 +153,8 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
