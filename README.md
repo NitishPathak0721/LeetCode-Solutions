@@ -96,6 +96,7 @@ Problems are organized topic-wise:
 | [0049-group-anagrams](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -149,6 +150,7 @@ Problems are organized topic-wise:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -162,4 +164,8 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
