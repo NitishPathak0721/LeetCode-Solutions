@@ -184,6 +184,7 @@ Problems are organized topic-wise:
 | [0144-binary-tree-preorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,8 +199,13 @@ Problems are organized topic-wise:
 | [0144-binary-tree-preorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
