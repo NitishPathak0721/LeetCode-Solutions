@@ -98,6 +98,7 @@ Problems are organized topic-wise:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -139,6 +140,7 @@ Problems are organized topic-wise:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -202,6 +205,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -216,6 +220,7 @@ Problems are organized topic-wise:
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Enumeration
