@@ -189,6 +189,7 @@ Problems are organized topic-wise:
 | [0226-invert-binary-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ Problems are organized topic-wise:
 | [0226-invert-binary-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
