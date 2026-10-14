@@ -59,6 +59,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
@@ -104,6 +105,7 @@ Problems are organized topic-wise:
 | [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -231,4 +233,16 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
