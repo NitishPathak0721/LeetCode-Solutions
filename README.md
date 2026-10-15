@@ -114,6 +114,7 @@ Problems are organized topic-wise:
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
@@ -129,6 +130,7 @@ Problems are organized topic-wise:
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
