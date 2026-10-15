@@ -106,6 +106,7 @@ Problems are organized topic-wise:
 | [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -156,6 +157,7 @@ Problems are organized topic-wise:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
