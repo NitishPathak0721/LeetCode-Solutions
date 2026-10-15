@@ -1,20 +1,22 @@
-/*class Solution {
-public:
-    int largestAltitude(vector<int>& gain) {
-    int num=gain.size();
-    vector<int>temp;
-    int sum=0;
-    for(int i=0;i<num;i++){
-        sum+=gain[i];
-    }
-    for(int i=num-1;i>=0;i--){
-        sum-=gain[i];
-        temp.push_back(sum);
-    }
-    int height=*max_element(temp.begin(),temp.end());
-    return height;
-    }
-};*/
+class Solution { 
+public: 
+    int largestAltitude(vector<int>& gain) { 
+        int num = gain.size(); 
+        vector<int> temp; 
+        int sum = 0; 
+        for(int i = 0; i < num; i++){ 
+            sum += gain[i]; 
+        } 
+        for(int i = num - 1; i >= 0; i--){ 
+            temp.push_back(sum); 
+            sum -= gain[i]; 
+        } 
+        temp.push_back(0); 
+        int height = *max_element(temp.begin(), temp.end()); 
+        return height; 
+    } 
+};
+/*
 class Solution {
 public:
     int largestAltitude(vector<int>& gain) {
@@ -35,3 +37,4 @@ public:
         return max_altitude;
     }
 };
+*/
