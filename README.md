@@ -106,6 +106,7 @@ Problems are organized topic-wise:
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0495-teemo-attacking](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -127,6 +128,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
