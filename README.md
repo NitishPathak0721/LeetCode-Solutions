@@ -104,6 +104,7 @@ Problems are organized topic-wise:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0495-teemo-attacking](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -256,4 +257,8 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0495-teemo-attacking](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
 <!---LeetCode Topics End-->
