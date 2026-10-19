@@ -75,6 +75,7 @@ Problems are organized topic-wise:
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
@@ -117,6 +118,7 @@ Problems are organized topic-wise:
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -142,6 +144,7 @@ Problems are organized topic-wise:
 | [0242-valid-anagram](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
