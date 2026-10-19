@@ -59,6 +59,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0319-bulb-switcher](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -251,4 +252,8 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
