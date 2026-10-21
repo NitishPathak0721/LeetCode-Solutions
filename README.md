@@ -113,6 +113,7 @@ Problems are organized topic-wise:
 | [1732-find-the-highest-altitude](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -131,6 +132,7 @@ Problems are organized topic-wise:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Problems are organized topic-wise:
 | [0049-group-anagrams](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Sliding Window
@@ -167,6 +170,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -188,6 +192,7 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
