@@ -109,6 +109,7 @@ Problems are organized topic-wise:
 | [0503-next-greater-element-ii](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1051-height-checker](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -144,6 +145,7 @@ Problems are organized topic-wise:
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1051-height-checker](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -271,4 +273,12 @@ Problems are organized topic-wise:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
