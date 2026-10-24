@@ -212,6 +212,7 @@ Problems are organized topic-wise:
 | [0144-binary-tree-preorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -223,6 +224,7 @@ Problems are organized topic-wise:
 | [0144-binary-tree-preorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -233,6 +235,7 @@ Problems are organized topic-wise:
 | [0144-binary-tree-preorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -246,6 +249,7 @@ Problems are organized topic-wise:
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NitishPathak0721/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Enumeration
